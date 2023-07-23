@@ -8,8 +8,6 @@ tags:
   - Heat Transfer
 ---
 
-# Energy Conservation Equation for Compressible Flow
-
 ## Terminology
 
 * $e\:(\mathrm{J/kg})$: thermodynamic energy or (specific) internal energy
