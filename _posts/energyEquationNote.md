@@ -1,7 +1,7 @@
 ---
 title: 'Energy Conservation Equation for Compressible Flow'
 date: 2023-07-23
-permalink: /posts/2023/07/blog-post-4/
+permalink: /posts/2023/07/energyEquationNote/
 tags:
   - Theory
   - Fluid Dynamics
