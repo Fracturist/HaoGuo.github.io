@@ -46,11 +46,11 @@ $$
 \end{align*}
 $$
 
-Beta function $\Beta(m, n)$:
+Beta function $\mathrm{B}(m, n)$:
 
 $$
 \begin{align*}
-    \Beta(m,n) &=
+    \mathrm{B}(m,n) &=
         \int_0^1
         {
             u^{m-1} (1-u)^{n-1}
@@ -97,7 +97,7 @@ Now prove that
 
 $$
 \begin{align*}
-    \Beta(p, q) = \frac{\Gamma(p)\Gamma(q)}{\Gamma(p+q)}.
+    \mathrm{B}(p, q) = \frac{\Gamma(p)\Gamma(q)}{\Gamma(p+q)}.
 \end{align*}
 $$
 
@@ -105,7 +105,7 @@ Let $u=\cos^2\theta$,
 
 $$
 \begin{align*}
-    \Beta(p, q) &=
+    \mathrm{B}(p, q) &=
         \int_{\frac{\pi}{2}}^0
         {
             (\cos^{2p-2}\theta)
@@ -181,7 +181,7 @@ $$
         }
         \mathrm{d}\theta  \\
     & =
-        \Gamma(p+q) \Beta(p+q).
+        \Gamma(p+q) \mathrm{B}(p+q).
 \end{align*}
 $$
 
@@ -330,7 +330,7 @@ $$
     &=
         c_L^{-1/3}\cdot
         \tfrac{1}{2}\;
-        \Beta
+        \mathrm{B}
         \left(
             \tfrac13,
             \tfrac12 + \tfrac12p_0
@@ -450,7 +450,7 @@ $$
     f_\eta(\kappa \eta) =
         \exp
         \left[
-            -\beta (\kappa \eta)^{1/q_0}
+            -\mathrm{B} (\kappa \eta)^{1/q_0}
         \right]. \\
 \end{align}
 $$
@@ -463,11 +463,11 @@ $$
         \int_0^\infty
         {
             t^{1/3}
-            \exp\left(-\beta t^{1/q_0}\right)
+            \exp\left(-\mathrm{B} t^{1/q_0}\right)
         }
         \;\mathrm{d} t  \\
     &=
-        \beta^{-\frac{4}{3} q_0}
+        \mathrm{B}^{-\frac{4}{3} q_0}
         q_0
         \int_0^\infty
         {
@@ -476,9 +476,9 @@ $$
         }
         \;\mathrm{d} x
         \quad
-        \left( x = \beta t^{1/q_0} \right)  \\
+        \left( x = \mathrm{B} t^{1/q_0} \right)  \\
     &=
-        \beta^{-\frac{4}{3} q_0}
+        \mathrm{B}^{-\frac{4}{3} q_0}
         q_0\;
         \Gamma\left(\frac{4}{3}q_0\right)
     = \frac{1}{2C}
@@ -490,7 +490,7 @@ Thus,
 
 $$
 \begin{align}
-    \beta =
+    \mathrm{B} =
         \left[
             2 C
             \cdot
@@ -503,7 +503,7 @@ $$
 For simple spectrum model, $q_0 = 1$ and
 
 $$
-    \beta =
+    \mathrm{B} =
         \left[
             2 C
             \cdot
@@ -517,7 +517,7 @@ If $q_0 = 3/4$ (the Pao spectrum),
 
 $$
 \begin{align*}
-    \beta =
+    \mathrm{B} =
         \frac32 C
         \cdot
         \Gamma\left(1\right)
@@ -530,7 +530,7 @@ If $q_0 = 1/2$ (FAKE Pao spectrum),
 
 $$
 \begin{align*}
-    \beta =
+    \mathrm{B} =
         \left[
             C
             \cdot
@@ -541,11 +541,11 @@ $$
 \end{align*}
 $$
 
-Set $\beta = 2$ while keeping $q_0 = 1/2$, now
+Set $\mathrm{B} = 2$ while keeping $q_0 = 1/2$, now
 
 $$
 \begin{align*}
-    C = \frac{\beta^{2/3}}{\Gamma(\frac23)} = 1.172276805254214.
+    C = \frac{\mathrm{B}^{2/3}}{\Gamma(\frac23)} = 1.172276805254214.
 \end{align*}
 $$
 
@@ -562,7 +562,7 @@ $$
     f_\eta &=
         \exp
         \left\lbrace
-            - \beta
+            - \mathrm{B}
             \left\lbrace
                 \left[
                     (\kappa \eta)^{4}
@@ -586,7 +586,7 @@ $$
             t^{1/3}
             \exp
                 \left\lbrace
-                    - \beta
+                    - \mathrm{B}
                     \left[
                         \left(
                             t^{4}
@@ -605,7 +605,7 @@ $$
             t^{1/3}
             \exp
                 \left\lbrace
-                    - \beta
+                    - \mathrm{B}
                     \left[
                         \left(
                             t^{4}
@@ -619,13 +619,13 @@ $$
         }
         \;\mathrm{d} t  \\
     &=
-        e^{\beta c_\eta}
+        e^{\mathrm{B} c_\eta}
         \int_0^\infty
         {
             t^{1/3}
             \exp
                 \left\lbrace
-                    - \beta c_\eta
+                    - \mathrm{B} c_\eta
                     \left[
                         (t/c_\eta)^{4}
                         +
@@ -635,14 +635,14 @@ $$
         }
         \;\mathrm{d} t  \\
     &=
-        e^{\beta c_\eta}
+        e^{\mathrm{B} c_\eta}
         c_\eta^{4/3}
         \int_0^\infty
         {
             x^{1/3}
             \exp
                 \left[
-                    - \beta c_\eta
+                    - \mathrm{B} c_\eta
                     \left(
                         x^{4}
                         +
@@ -660,12 +660,12 @@ $$
             C_\eta^{1-\left(x^{4}+1\right)^{1/4}}
         }
         \;\mathrm{d} x
-        \quad \left(C_\eta = e^{\beta c_\eta}\right)  \\
+        \quad \left(C_\eta = e^{\mathrm{B} c_\eta}\right)  \\
     &= \frac{1}{3}.
 \end{align*}
 $$
 
-Provided that $\beta = 0.52$,
+Provided that $\mathrm{B} = 0.52$,
 
 $$
     c_\eta = 0.401684789281759.
@@ -768,7 +768,7 @@ $$
         \exp\left[-2\left(\frac{\kappa}{\kappa_\eta}\right)^2\right],
 $$
 
-where $\kappa_\eta = \varepsilon^{1/4} \nu^{-3/4}$. In this instance, it is easy to deduce that $p_0 = 4$, $q_0 = 0.5$, and $\beta = 2$.
+where $\kappa_\eta = \varepsilon^{1/4} \nu^{-3/4}$. In this instance, it is easy to deduce that $p_0 = 4$, $q_0 = 0.5$, and $\mathrm{B} = 2$.
 
 Notice that
 
