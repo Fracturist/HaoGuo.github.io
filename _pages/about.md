@@ -13,5 +13,5 @@ I'm a Ph.D student from [Department of EPE](https://www.te.tsinghua.edu.cn/), [T
 
 # Education
 
-* Ph.D in Power Engineering and Engineering Thermophysics, Tsinghua University, 2024 (expected)
-* B.S. in Power Engineering and Engineering Thermophysics, Xi'an Jiaotong University, 2019
+* Ph.D in Power Engineering and Engineering Thermal Physics, Tsinghua University, 2024 (expected)
+* B.S. in Energy and Power Engineering, Xi'an Jiaotong University, 2019
