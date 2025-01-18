@@ -10,11 +10,11 @@ locale                   : "en-US"
 title                    : "Hao Guo / Homepage"
 title_separator          : "-"
 name                     : &name "Hao Guo"
-description              : &description "???personal description"
+description              : &description "Research scientist"
 url                      : https://fracturist.github.io/HaoGuo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Fracturist/HaoGuo.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   :  "500x300.png"  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : false
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Hao Guo / 郭昊"
   avatar           : "avatar.png"
-  bio              : "PhD student, Tsinghua University"
+  bio              : "Research Scientist"
   # location         : "Location"
-  employer         :
+  employer         : "CTG Science & Technology Research Inst."
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=ZOhz0b8AAAAJ"
   email            : "guoh19@proton.me"
