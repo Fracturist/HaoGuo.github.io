@@ -8,10 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Ph.D student from [Department of EPE](https://www.te.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/). My research interest includes heat & mass transfer, highly-compressible flows, scale-resolving turbulence simulation, low-dissipative CFD method and synthetic turbulence method.
+I am a research scientist at the science and technology research institute of CTG, China. My research focus is on numerical method for scale-resolving turbulence simulations, engineering problems of turbulent heat and mass transfer, and research program/software developing for renewable-energy industry.
+
+
+# Interests
+
+* High-performance scientific computing
+* Turbulence theory, modeling and simulation
+* High-order numerical schemes and efficient algorithm
+* Synthetic turbulence methods
+* Multi-physics phenomenon in high-speed flows
+* Applications in fluid mechanics, aerodynamics and thermodynamics.
+* Research software of wind energy utilization.
 
 
 # Education
 
-* Ph.D in Power Engineering and Engineering Thermal Physics, Tsinghua University, 2024 (expected)
+* Ph.D. in Power Engineering and Engineering Thermal Physics, Tsinghua University, 2024
 * B.S. in Energy and Power Engineering, Xi'an Jiaotong University, 2019
