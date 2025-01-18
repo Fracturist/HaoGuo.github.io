@@ -32,7 +32,7 @@
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
       {% if author.email %}
-        <li><a href="mailto:{{ author.email }}"><i style="color: #7c5cff;" class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: author.email }}</a></li>
+        <li><a href="mailto:{{ author.email }}"><i style="color: #7c5cff;" class="fas fa-fw fa-envelope" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].email_label | default: "guoh19@proton.me" }}</a></li>
       {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
@@ -105,7 +105,7 @@
       {% endif %}
       {% if author.googlescholar %}
         <!-- <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li> -->
-        <li><a href="{{ author.googlescholar }}"><i style="color: #4d90fe" class="ai ai-google-scholar ar-fw"></i> Google Scholar</a></li>
+        <li><a href="{{ author.googlescholar }}"><i style="color: #4d90fe" class="ai ai-google-scholar ai-fw"></i> Google Scholar</a></li>
       {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
