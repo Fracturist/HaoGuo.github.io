@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Hao Guo / 郭昊"
   avatar           : "avatar.png"
-  bio              : "Research Scientist"
+  bio              : "Research Scientist\nCTG Science & Technology Research Inst."
   # location         : "Location"
-  employer         : "CTG S&T Res. Inst."
+  employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=ZOhz0b8AAAAJ"
   email            : "guoh19@proton.me"
