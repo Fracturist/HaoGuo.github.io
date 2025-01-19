@@ -8,14 +8,16 @@ tags:
   - Turbulence
 ---
 
+This blog introduces the several turbulence (spectrum) models, including the derivations and coefficient determination for the modeling of the energy-containing range, the inertial range, and the dissipation range.
+
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
 <!-- code_chunk_output -->
 
 - [Miscellaneous](#miscellaneous)
 - [Spectrum Model](#spectrum-model)
-  - [Low $\\mathrm{Re}\_t$ Model](#low-mathrmre_t-model)
-  - [High $\\mathrm{Re}\_t$ Model](#high-mathrmre_t-model)
+  - [Low $\mathrm{Re}_t$ Model](#low-mathrmre_t-model)
+  - [High $\mathrm{Re}_t$ Model](#high-mathrmre_t-model)
     - [Energy-containing Range Function](#energy-containing-range-function)
     - [Dissipation Range Function](#dissipation-range-function)
     - [Spectrum Peak](#spectrum-peak)

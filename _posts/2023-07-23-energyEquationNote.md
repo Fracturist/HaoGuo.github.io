@@ -8,6 +8,8 @@ tags:
   - Heat Transfer
 ---
 
+This blog introduces various representations of the energy conservation in the governing equation system of compressible flows, where, except for the kinetic energy equation, all other forms are different manifestations of thermodynamic energy.
+
 <!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
 
 <!-- code_chunk_output -->
