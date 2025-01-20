@@ -4,23 +4,29 @@ excerpt: "Simple software of turbulent-boundary-layer $y^+$ calculator<br/><img 
 collection: portfolio
 ---
 
+<style>
+    .figs { margin-left: 20%;  /* 100px */ }
+</style>
+
+
 Simple software to calculator $y^+$ and other quantities for various type of boundary-layer turbulent flows.
 
-Calculate $y^+$ for the channel flow:
+The tab to calculate $y^+$ for the channel flow:
 
-<p align="center">
+<p class=figs>
     <img width="500" src="/HaoGuo.github.io/files/portfolio/yplus/ChannelFlowTab.png">
-    <!-- <br /> -->
-    <!-- <em>Rayleigh–Taylor instability predicted by high-order DOLINC scheme.</em> -->
 </p>
 
-<p margin-left=auto>
+The tab to calculate $y^+$ for the pipe flow:
+
+<p class=figs>
     <img width="500" src="/HaoGuo.github.io/files/portfolio/yplus/PipeFlowTab.png">
-    <!-- <br /> -->
-    <!-- <em>Rayleigh–Taylor instability predicted by high-order DOLINC scheme.</em> -->
 </p>
-<img margin-left="50" src="/HaoGuo.github.io/files/portfolio/yplus/ChannelFlowTab.png">
 
-Calculate $y^+$ for the pipe flow:
+The tab to calculate $y^+$ for the developing-boundary-layer flow:
+
+<p class=figs>
+    <img width="500" src="/HaoGuo.github.io/files/portfolio/yplus/BoundaryLayerFlowTab.png">
+</p>
 
 Download the executable for Windows system: [Unified Yplus Calculator.exe](</HaoGuo.github.io/files/portfolio/yplus/Unified Yplus Calculator.exe>)
