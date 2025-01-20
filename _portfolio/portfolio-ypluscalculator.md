@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/HaoGuo.github.io/files/prtf-ypcal.png'>"
+title: "Unified y-plus calculator"
+excerpt: "Simple software to calculator y-plus and other quantities for various type of boundary-layer turbulent flows.<br/><img src='/HaoGuo.github.io/files/portfolio/yplus/yplus-calculator-cover.png'>"
 collection: portfolio
 ---
 
