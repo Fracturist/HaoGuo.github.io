@@ -35,7 +35,7 @@ A substance mode can also be used (only support properties of air and helium for
     <img width="500" src="/HaoGuo.github.io/files/portfolio/yplus/SubstanceMode.png">
 </p>
 
-Moreover, the background of this GUI interface is transparent so the wallpaper can be seen among these screenshots. And the layout can be collapsed:
+Moreover, the background of this GUI interface is transparent (that is why the cute Kate in my wallpaper can be seen from above screenshots). And the layout can be collapsed:
 
 <p class=figs>
     <img width="500" src="/HaoGuo.github.io/files/portfolio/yplus/Collapse.png">
