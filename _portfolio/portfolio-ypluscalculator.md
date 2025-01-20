@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 <style>
-    .figs { margin-left: 20%;  /* 100px */ }
+    .figs { margin-left: 50%;  /* 100px */ }
 </style>
 
 
@@ -27,6 +27,12 @@ The tab to calculate $y^+$ for the developing-boundary-layer flow:
 
 <p class=figs>
     <img width="500" src="/HaoGuo.github.io/files/portfolio/yplus/BoundaryLayerFlowTab.png">
+</p>
+
+A substance mode can also be used (only support properties of air and helium for now):
+
+<p class=figs>
+    <img width="500" src="/HaoGuo.github.io/files/portfolio/yplus/SubstanceMode.png">
 </p>
 
 Download the executable for Windows system: [Unified Yplus Calculator.exe](</HaoGuo.github.io/files/portfolio/yplus/Unified Yplus Calculator.exe>)
