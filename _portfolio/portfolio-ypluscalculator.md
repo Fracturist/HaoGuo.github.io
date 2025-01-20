@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 <style>
-    .figs { margin-left: 50%;  /* 100px */ }
+    .figs { margin-left: 100px;  /* 100px */ }
 </style>
 
 
