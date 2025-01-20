@@ -1,9 +1,15 @@
 ---
 title: "Unified y-plus calculator"
-excerpt: "Simple software to calculator y-plus and other quantities for various type of boundary-layer turbulent flows.<br/><img src='/HaoGuo.github.io/files/portfolio/yplus/yplus-calculator-cover.png'>"
+excerpt: "Simple software of turbulent-boundary-layer y-plus calculator<br/><img src='/HaoGuo.github.io/files/portfolio/yplus/yplus-calculator-cover.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.
+Simple software to calculator y-plus and other quantities for various type of boundary-layer turbulent flows.
 
-Download the executable for Windows system: [Unified Yplus Calculator]('/HaoGuo.github.io/files/portfolio/Unified Yplus Calculator.exe').
+<!-- <p align="center"> -->
+<img align="center" width="500" src='/HaoGuo.github.io/files/portfolio/ChannelFlowTab.png'>
+    <!-- <br /> -->
+    <!-- <em>Rayleigh–Taylor instability predicted by high-order DOLINC scheme.</em> -->
+<!-- </p> -->
+
+Download the executable for Windows system: [Unified Yplus Calculator.exe](https://fracturist.github.io/HaoGuo.github.io/files/portfolio/'Unified Yplus Calculator.exe').
