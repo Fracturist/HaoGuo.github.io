@@ -31,10 +31,10 @@ A substance mode can also be used (only support properties of air and helium for
     <img width="500" src="/HaoGuo.github.io/files/portfolio/yplus/SubstanceMode.png">
 </p>
 
-Moreover, the background of this GUI interface is transparent (that is why the cute Kate in my wallpaper can be seen from above screenshots). And the layout can be collapsed:
+Moreover, the background of this GUI interface is transparent (that is why the cute Kate in my wallpaper can be seen from above screenshots). And the layout can be collapsed by click on the ⓥ button:
 
 <p>
-    <img width="300" src="/HaoGuo.github.io/files/portfolio/yplus/Collapse.png">
+    <img width="350" src="/HaoGuo.github.io/files/portfolio/yplus/Collapse.png">
 </p>
 
 Download the executable for Windows system: [Unified Yplus Calculator.exe](</HaoGuo.github.io/files/portfolio/yplus/Unified Yplus Calculator.exe>)
