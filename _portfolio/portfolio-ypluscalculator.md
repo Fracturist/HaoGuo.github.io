@@ -8,11 +8,11 @@ Simple software to calculator $y^+$ and other quantities for various type of bou
 
 Calculate $y^+$ for the channel flow:
 
-<p align="center">
-    <img align="center" width="500" src="/HaoGuo.github.io/files/portfolio/yplus/ChannelFlowTab.png">
+<!-- <p align="center"> -->
+<img margin-left=auto width="500" src="/HaoGuo.github.io/files/portfolio/yplus/ChannelFlowTab.png">
     <!-- <br /> -->
     <!-- <em>Rayleigh–Taylor instability predicted by high-order DOLINC scheme.</em> -->
-</p>
+<!-- </p> -->
 
 Calculate $y^+$ for the pipe flow:
 
