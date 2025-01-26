@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research scientist at the science and technology research institute of CTG, China. My research focus is on *numerical method for scale-resolving turbulence simulations*, *engineering problems of turbulent heat and mass transfer*, and *research program/software developing for renewable-energy industry*. If you are seeking any form of academic cooperation, please feel free to contact me at *guoh19@proton.me*.
+I am a research scientist at the CTG Institute of Science and Technology, China. My research focus is on *numerical method for scale-resolving turbulence simulations*, *engineering problems of turbulent heat and mass transfer*, and *research program/software developing for renewable-energy industry*. If you are seeking any form of academic cooperation, please feel free to contact me at *guoh19@proton.me*.
 
 
 # Interests
