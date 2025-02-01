@@ -24,7 +24,7 @@ $$
 
 There is a clear error in Formula (7). The turbulence fluctuation energy in the 2 and 3 directions is generally not higher than that in the flow direction (the 1 direction).
 
-The cause of this mistake is that the above equation (7) incorrectly converts the wavenumber spectrum into a frequency spectrum. The spectral distribution $E_{ij}(\mathbf{\kappa})$ is a function of the three-dimensional wavenumber vector $\mathbf{\kappa}$, where $\mathbf{\kappa} = (\kappa_1, \kappa_2, \kappa_3) = 2\pi/\mathbf{l}$, where $\kappa_m = \sqrt{\kappa_1^2 + \kappa_2^2 + \kappa_3^2} $ represents the magnitude of the wave vector. According to the literature[^1],
+The cause of this mistake is that the above equation (7) incorrectly converts the wavenumber spectrum into a frequency spectrum. The spectral distribution $E_{ij}(\boldsymbol{\kappa})$ is a function of the three-dimensional wavenumber vector $\boldsymbol{\kappa}$, where $\boldsymbol{\kappa} = (\kappa_1, \kappa_2, \kappa_3) = 2\pi/\boldsymbol{l}$, where $\kappa_m = \sqrt{\kappa_1^2 + \kappa_2^2 + \kappa_3^2} $ represents the magnitude of the wave vector. According to the literature[^1],
 
 $$
 \begin{gather*}
